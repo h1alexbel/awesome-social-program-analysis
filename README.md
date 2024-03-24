@@ -37,6 +37,8 @@ blog posts, etc.
 The list must include only academic papers, like ACM/IEEE/etc. conference
 proceedings or publications in scientific journals.
 
-I use [ACM citation style](https://www.acm.org/publications/authors/reference-formatting) with a bolder font for titles.
+I use [ACM citation style](https://www.acm.org/publications/authors/reference-formatting)
+with a bolder font for titles.
 
-To find new papers I recommend to use [arXiv](https://arxiv.org), [DL ACM](https://dl.acm.org), [Google Scholar](https://scholar.google.com).
+To find new papers I recommend to use [arXiv](https://arxiv.org),
+[DL ACM](https://dl.acm.org), [Google Scholar](https://scholar.google.com).
