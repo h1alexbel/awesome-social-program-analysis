@@ -1,4 +1,4 @@
-# Awesome Social Program Analysis
+## Awesome Social Program Analysis
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -11,13 +11,22 @@ The quotes are mostly of critical nature.
 
 Michael Pradel and Satish Chandra.
 **Neural software analysis**.
-__Commun. ACM 65__, 1 (January 2022), 86–96.
+_Commun. ACM 65_, 1 (January 2022), 86–96.
 [ACM](https://doi.org/10.1145/3460348):
-> "The key idea is to train a neural machine learning model on numerous code examples, which, once trained, makes predictions about previously unseen code."
+> "The key idea is to train a neural machine learning model on numerous code
+examples, which, once trained, makes predictions about previously unseen code."
 
-> "Fortunately, software is written by humans and hence follows regular patterns and coding idioms, similar to natural language. For example, developers commonly call a loop variable i or j, and most developers prefer a for-loop over a while-loop when iterating through a sequential data structure. This “naturalness” of software has motivated research on machine learning-based software analysis that exploits the regularities and conventions of code."
+> "Fortunately, software is written by humans and hence follows regular
+patterns and coding idioms, similar to natural language.
+For example, developers commonly call a loop variable i or j,
+and most developers prefer a for-loop over a while-loop when iterating
+through a sequential data structure.
+This “naturalness” of software has motivated research on machine learning-based
+software analysis that exploits the regularities and conventions of code."
 
-> "In principle, practically all program analysis problems can be formulated in a traditional, logic reasoning-based way, as well as a data-driven, learning-based way, such as neural software analysis."
+> "In principle, practically all program analysis problems can be formulated
+in a traditional, logic reasoning-based way, as well as a data-driven,
+learning-based way, such as neural software analysis."
 
 ## How to contribute
 
