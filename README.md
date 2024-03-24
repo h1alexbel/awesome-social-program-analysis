@@ -1,4 +1,4 @@
-## Awesome Social Program Analysis
+# Awesome Social Program Analysis
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -6,6 +6,8 @@ This is a curated list of **academic** (!) books and papers on
 neural/social program analysis, which promote
 "Analysis of source code using LLM and ML".
 The quotes are mostly of critical nature.
+
+## Papers
 
 ### Neural Software Analysis
 
@@ -30,8 +32,10 @@ learning-based way, such as neural software analysis."
 
 ## How to contribute
 
-I'm not interested in professional or scholar books, web articles, videos, blog posts, etc.
-The list must include only academic papers, like ACM/IEEE/etc. conference proceedings or publications in scientific journals.
+I'm not interested in professional or scholar books, web articles, videos,
+blog posts, etc.
+The list must include only academic papers, like ACM/IEEE/etc. conference
+proceedings or publications in scientific journals.
 
 I use [ACM citation style](https://www.acm.org/publications/authors/reference-formatting) with a bolder font for titles.
 
