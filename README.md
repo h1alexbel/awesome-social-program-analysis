@@ -24,6 +24,20 @@ through a sequential data structure.
 This “naturalness” of software has motivated research on machine learning-based
 software analysis that exploits the regularities and conventions of code."
 
+Haonan Li, Yu Hao, Yizhuo Zhai, and Zhiyun Qian.
+**Assisting Static Analysis with Large Language Models: A ChatGPT Experiment**.
+_In Proceedings of the 31st ACM Joint European Software Engineering Conference
+and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)_.
+[ACM](https://doi.org/10.1145/3611643.3613078):
+> We progressively provide information, such as function definitions
+when necessary. Specifically, we always prompt ChatGPT with the
+following message: “If you experience uncertainty due to insufficient
+function definitions, please indicate the required functions”.
+Upon receiving a request for additional information from ChatGPT,
+we automatically retrieve and provide the required data from the
+source code of Linux, enabling the model to reevaluate and generate
+an improved response.
+
 ## How to contribute
 
 I'm not interested in professional or scholar books, web articles, videos,
