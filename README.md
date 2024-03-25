@@ -24,6 +24,8 @@ through a sequential data structure.
 This “naturalness” of software has motivated research on machine learning-based
 software analysis that exploits the regularities and conventions of code."
 
+### Static Analysis with LLMs
+
 Haonan Li, Yu Hao, Yizhuo Zhai, and Zhiyun Qian.
 **Assisting Static Analysis with Large Language Models: A ChatGPT Experiment**.
 _In Proceedings of the 31st ACM Joint European Software Engineering Conference
